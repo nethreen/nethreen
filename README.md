@@ -5,32 +5,49 @@ I'm a **Frontend Developer** passionate about building sleek, high-performance w
 ---
 
 ## 💻 A Little About Me
-- 🔹 **Tech I Love:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, Zustand, Tailwind CSS, SCSS
-- 🎨 **UI & Animations:** Framer Motion, GSAP, Three.js – because smooth interactions matter!
-- ⚡ **Performance Tweaks:** SSR, ISR, Webpack optimizations – making things fast & efficient.
-- 🔧 **Tools I Use:** Git, GitHub, Vercel, Figma, Storybook
-- 📚 **Always Learning:** Whether it’s a new framework or the latest design trends, I love staying updated.
-
+- Frontend Technologies: React.js, Next.js, JavaScript
+- UI Kits & Styling: Tailwind CSS, Ant Design, Bootstrap, Materialize
+- Web Technologies: HTML5, CSS3, Sass/SCSS, jQuery
+- Version Control: Git, GitHub,GitLab,Bitbucket
+- Design & Responsiveness: Adhering to digital design standards,
+implementing responsive and adaptive designs, and utilizing Styled
+Components and CSS Modules for modular styling.
+- API Integration: Working with REST APIs, performing CRUD operations
+- Build Tools: Webpack
 ---
 
 ## 📌 Cool Stuff I've Built
 
-### 🚀 [Project Name](https://yourprojectlink.com)
-**Stack:** Next.js, Tailwind CSS, Framer Motion  
-📌 A quick rundown: What this project does and why it’s awesome.
 
-### 🛍 [E-Commerce Platform](https://yourprojectlink.com)
-**Stack:** React.js, Redux, Node.js  
-📌 A smooth & seamless shopping experience with optimized UI and backend integration.
+### 🚀 [SEA BREEZE](https://seabreeze.az/)
+**Stack:** Frontend Development | HTML, CSS, JavaScript, jQuery
+📌 Implemented parallax effects and highly functional maps for the Seabreeze platform, ensuring a responsive and interactive user experience.
 
-Wanna see more? Check out my [GitHub Repos](https://github.com/yourusername)! 🚀
+### 🚀 [PAŞA Property Management](https://pashaproperty.az/)
+**Stack:** Frontend Development | HTML, CSS, JavaScript, jQuery
+📌  This project is a corporate-based web application with responsive design and functional animations for the PAŞA Property Management platform.
+
+### 🛍 [İydə perfumery](https://iyde.az/)
+**Stack:** Frontend Development |  React.js, Redux, Node.js
+📌 Developed the iyde.az e-commerce platform using React.js, focusing on optimized performance, responsive design, and seamless user interactions, with dynamic content loading and smooth navigation for browsing and purchasing products.
+
+### 🛍 [Toolino](https://toolino.com/)
+**Stack:** Frontend Development |  React.js, Redux, Node.js
+📌 Developed Tooling e-commerce platform using React.js, focusing on optimized performance, responsive design, and seamless user interactions, with dynamic content loading and smooth navigation for browsing and purchasing products.
+
+### 🚀 [Bakı Psixologiya Mərkəzi](https://bakupsychologycenter.az/az)
+**Stack:** Frontend Development |  Next.js
+📌 I developed the Bakı Psixologiya Mərkəzi website using Next.js, adding smooth animations and interactive features to create a more engaging and user-friendly experience. I also focused on SEO optimization to improve the site's visibility and make it easier for people seeking psychological support to find the right resources.
+
+### 🚀 [Crescent Residences](https://crescentresidences.az/)
+**Stack:** Frontend Development |   HTML, CSS, JavaScript, jQuery
+📌 I developed the Crescent Residences landing page using HTML, CSS, JavaScript, and jQuery, implementing interactive animations and smooth transitions to create an engaging user experience.
 
 ---
 
-## 📫 Let’s Connect!
-- 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+## 📫 Contact Me
+- 📧 Email: nezrinsoltanli@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/n%C9%99zrin-soltanl%C4%B1-b104b2171/
+- 🐙 [GitHub](https://github.com/nethreen)
 
-⚡ Building the web, one component at a time! ✨
-
+📌  Note: I have worked on many more projects, but due to space limitations, I couldn't include all of them here. For more details, feel free to contact me directly!✨
