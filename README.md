@@ -47,7 +47,7 @@ Components and CSS Modules for modular styling.
 
 ## 📫 Contact Me
 - 📧 Email: nezrinsoltanli@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/n%C9%99zrin-soltanl%C4%B1-b104b2171/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/n%C9%99zrin-soltanl%C4%B1-b104b2171/)
 - 🐙 [GitHub](https://github.com/nethreen)
 
 📌  Note: I have worked on many more projects, but due to space limitations, I couldn't include all of them here. For more details, feel free to contact me directly!✨
