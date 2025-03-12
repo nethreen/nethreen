@@ -33,7 +33,7 @@ Components and CSS Modules for modular styling.
 
 ### 🛍 [Toolino](https://toolino.com/)
 **Stack:** Frontend Development |  React.js, Redux, Node.js
-📌 Developed Tooling e-commerce platform using React.js, focusing on optimized performance, responsive design, and seamless user interactions, with dynamic content loading and smooth navigation for browsing and purchasing products.
+📌 Built an e-commerce platform with React.js, optimizing performance and ensuring a responsive, dynamic user experience. Integrated smooth navigation, dynamic content loading, and seamless interactions for efficient product browsing and purchasing.
 
 ### 🚀 [Bakı Psixologiya Mərkəzi](https://bakupsychologycenter.az/az)
 **Stack:** Frontend Development |  Next.js
